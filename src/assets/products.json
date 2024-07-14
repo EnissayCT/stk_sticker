@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Visa Card Sticker",
+      "category": "Bank Cards",
+      "price": "$10.00",
+      "rating": 4.5,
+      "discount": "10% OFF",
+      "image": "src/assets/images/Sticker example 1.jpg"
+    },
+    {
+      "name": "MasterCard Sticker",
+      "category": "Men",
+      "price": "$12.00",
+      "rating": 4.0,
+      "discount": false,
+      "image": "src/assets/images/Sticker example 3.png"
+    },
+    {
+        "name": "Visa Card Sticker",
+        "category": "Women",
+        "price": "$10.00",
+        "rating": 4.5,
+        "discount": "10% OFF",
+        "image": "src/assets/images/Sticker example 3.png"
+      },
+      {
+        "name": "Visa Card Sticker",
+        "category": "Women",
+        "price": "$10.00",
+        "rating": 4.5,
+        "discount": "10% OFF",
+        "image": "src/assets/images/Sticker example 2.webp"
+      }
+]
+  

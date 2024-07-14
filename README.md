@@ -1,0 +1,1 @@
+Ecom website, run npm install -> npm run dev
